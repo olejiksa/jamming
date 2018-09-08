@@ -1,0 +1,6 @@
+framework module Pods_Jamming {
+  umbrella header "Pods-Jamming-umbrella.h"
+
+  export *
+  module * { export * }
+}
